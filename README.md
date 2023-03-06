@@ -24,6 +24,6 @@ Ezzalarab </a> <img width="30px" src="https://raw.githubusercontent.com/iampavan
 
 - 💬 Ask me about **Flutter & Dart**
 
-- 📫 How to reach me **alhmydymhmdjmal91@gmail.com**
+- 📫 How to reach me **ezz2019alarab@gmail.com**
 
 <br/>
