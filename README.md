@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm  <a href="https://github.com/Ezzalarab/Ezzalarab" target="blank">
 Ezzalarab </a> <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-<h3 align="center">I'm a mobile applications developer having an experience of Flutter</h3>
+<h3 align="center">I'm a mobile applications developer having an experience with Flutter</h3>
 <h3 align="center"> 📄 Know more about <a href="https://drive.google.com/file/d/11pjKG1w78i3IJdwEpaeexFwr_CfYQ68q/view?usp=sharing" target="blank">my CV</a></h3>
 <br/>
 <a target="_blank" align="center">
