@@ -14,13 +14,13 @@ Ezzalarab </a> <img width="30px" src="https://raw.githubusercontent.com/iampavan
 
  <img src="https://komarev.com/ghpvc/?username=Ezzalarab&label=Profile%20views&color=0e75b6&style=fla" alt="100rabhcsmc" />
  
-- 🔭 I’m currently working in <a href="https://rafal-nht.com/">Rafal Store</a>
+- 🔭 I’m currently working in <a href="https://flutter.dev/">Rafal Store</a>
 
 - 🌱 I’m currently Working on Flutter Mobile Applications
 
 - 🤝 I’m available for freelancing or part-time jobs.
 
-- 💬 Ask me about **Flutter & Dart**
+- 💬 Ask me about **<a href="https://flutter.dev/">Flutter</a> & <a href="https://dart.dev/">Dart</a>**
 
 - 📫 How to reach me **ezz2019alarab@gmail.com**
 
