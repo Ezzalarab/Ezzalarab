@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://github.com/Ezzalarab">
-    <img src="imgs/logout_screen_shot.jpg" alt="Logout Screenshot" width="80" height="80">
+    <img src="imgs/logout_screen_shot.jpg" alt="Logout Screenshot">
   </a>
  <h1>Logout</h1>
 </div>
